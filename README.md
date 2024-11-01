@@ -5,6 +5,7 @@ The Mall customers data set (https://www.kaggle.com/datasets/kandij/mall-custome
 1. hierachical clustering
 2. k-means clustering
 3. model-based clustering
-4. using R pakacge "fpc"
+
+Compaire the results using R pakacge "fpc"
 
  
